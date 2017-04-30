@@ -1,0 +1,6 @@
+"ID";"参照記号";"パッケージ";"数";"名称";"Supplier and ref";
+1;"C1";"generic-SMD1608";1;"C";;;
+2;"P1";"pinhead-1X05";1;"CONN_01X05";;;
+3;"R1,R2";"generic-SMD1608";2;"R";;;
+4;"U1";"SPH0641LU4H";1;"SPH0641LU4H";;;
+5;"REF1,REF2";"MountingHole_3mm";2;"MountingHole_3mm";;;

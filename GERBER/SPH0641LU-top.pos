@@ -1,0 +1,9 @@
+### Module positions - created on 2017/04/29 17:49:37 ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       C                generic-SMD1608   154.5000  -107.5000      90.0    top
+R1       R                generic-SMD1608   149.5000  -103.5000      90.0    top
+R2       R                generic-SMD1608   152.0000  -103.5000     270.0    top
+## End
