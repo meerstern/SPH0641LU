@@ -9,9 +9,9 @@ Knowles社製の[デジタル出力MEMSマイクSPH0641LU4H-1][1]を2.54mmピッ
 
 
 
-電源電圧1.62V~3.6V、PDM/I2Sデジタル出力  
+電源電圧1.62V~3.6V、PDMデジタル出力  
 セレクトピンをプルアップする場合はR2、プルダウンする場合はR1にチップ抵抗を取り付けてください。  
-※接続先がI2S通信等のPDM/I2Sマスタに対応している必要があります。　　
+※接続先がDFSDMやI2S、SPI通信等のPDMマスタに対応している必要があります。　　
 
 
 <img src="https://github.com/meerstern/SPH0641LU/blob/master/SPH0641LU.png" width="360">
