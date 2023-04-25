@@ -15,6 +15,7 @@ Knowles社製の[デジタル出力MEMSマイクSPH0641LU4H-1][1]を2.54mmピッ
 
 ## 販売サイト
   * [スイッチサイエンス][2]
+  * [Elecrow][3]
 
 <img src="https://github.com/meerstern/SPH0641LU/blob/master/SPH0641LU.png" width="360">
 
@@ -26,3 +27,4 @@ License - MIT
 
 [1]: https://www.digikey.jp/product-detail/ja/knowles/SPH0641LU4H-1/423-1402-1-ND/5332430 "*1"
 [2]: https://www.switch-science.com/products/3379
+[3]: https://www.elecrow.com/digital-mems-microphone.html
