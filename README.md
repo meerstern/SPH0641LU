@@ -2,7 +2,7 @@
 The Converter board of Kicad Data for SPH0641LU
 
 ## 概要
-Knowles社製の[デジタル出力MEMSマイクSPH0641LU4H-1][1]を2.54mmピッチへ変換する基板です。  
+Syntiant社製の[デジタル出力MEMSマイクSPH0641LU4H-1][1]を2.54mmピッチへ変換する基板です。  
 可聴音から超音波(100Hz～80kHz)までの幅広い帯域を高感度にセンシングすることが可能です。  
 超音波センサや超音波通信などに使用可能です。  
 マイク穴は基板裏面の丸印部分です。  
@@ -39,7 +39,7 @@ License - MIT
 [2]: https://www.switch-science.com/products/3379
 [3]: https://www.elecrow.com/digital-mems-microphone.html
 
-[A]: https://github.com/meerstern/SPU0410LR
-[B]: https://github.com/meerstern/SPU0410LR_with_Amp
-[C]: https://github.com/meerstern/SPU0410LR_with_VariableAmp
-[D]: https://github.com/meerstern/SPH0641LU
+[A]: https://github.com/meerstern/SPV0142LR5H
+[B]: https://github.com/meerstern/SPV0142LR5H_with_VariableAmp
+[C]: https://github.com/meerstern/SPV0142LR5H_with_Amp
+[D]: https://github.com/meerstern/SPH0641LUAmp
